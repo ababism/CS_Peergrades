@@ -10,5 +10,5 @@ https://github.com/ababism/FileManager
 ConsoleApplication
 
 ## FractalApp
-
+https://github.com/ababism/FractalApp
 This is WPF project that builds different kinds of fractals
