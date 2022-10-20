@@ -5,6 +5,10 @@
 https://github.com/ababism/WebApi
 This is an app working with WebApi by Swagger. Emulates message service
 
+## FileManager
+https://github.com/ababism/FileManager
+ConsoleApplication
+
 ## FractalApp
 
 This is WPF project that builds different kinds of fractals
