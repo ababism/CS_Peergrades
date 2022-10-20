@@ -12,3 +12,7 @@ ConsoleApplication
 ## FractalApp
 https://github.com/ababism/FractalApp
 This is WPF project that builds different kinds of fractals
+
+## WinFormNotepad
+https://github.com/ababism/WinFormNotepad
+Small text editor made with WinForms
